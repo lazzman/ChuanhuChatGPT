@@ -8,7 +8,7 @@ on:
 
 env:
   APP_NAME: ChuanhuChatGPT
-  DOCKERHUB_REPO: nodcat/ChuanhuChatGPT
+  DOCKERHUB_REPO: nodcat/chuanhu-chatgpt
 
 jobs:
   build:
